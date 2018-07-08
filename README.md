@@ -17,9 +17,9 @@ The only assumption - you plan to build in visual studio
 
 ```bash
 npm i -g cunit-manager
+git clone https://github.com/cunit/cunit-example-windows.git
+cd cunit-example-windows
 ```
-
-then, clone this repo somewhere
 
 ### Configure
 
