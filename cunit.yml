@@ -1,0 +1,9 @@
+name: cunit-example-windows
+profiles: [Debug, Release]
+
+dependencies:
+  protobuf: 3.1.0
+
+
+tools:
+  protobuf: 3.1.0
